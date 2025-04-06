@@ -8,7 +8,7 @@ Server Name: Micro Conflict - 16km Sq terrain.  Trenches, Forests, Farmland.
 
 #2   email rulebreaking evidence or of anyone hacking to gyldendragegaming+HACKERREPORT@gmail.com
 
-#3   Don't spam music on platoon mics, ear screaming, anything generally annoying.
+#3   Don't spam music on platoon mics, ear screaming, anything generally annoying.  Also NO RACISM  or any other bigotry.
 
 #4   Obey the Bohemia Interactive terms of service for Arma Reforger.
 
