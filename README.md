@@ -1,6 +1,8 @@
 # Micro-Conflict-RULES
-Basic Rules of server: Micro Conflict - 16km Sq terrain.  Trenches, Forests, Farmland.
+Basic Rules of server:
 
+Server Name: Micro Conflict - 16km Sq terrain.  Trenches, Forests, Farmland.
+(( again that is the server name in the browser, search micro I find it pretty quick ))
 
 #1   No Hacking/ Abusing or Exploting bugs glitches.
 
